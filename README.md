@@ -9,9 +9,7 @@
 
 ## 📸 Preview
 
-```
-DeepSeek-V4-flash  [##########] 4%  63.1k  ~/my-project
-```
+![Screenshot](screenshot.png)
 
 - **Model name** — cyan
 - **Context bar** — green (0–40%), yellow (40–60%), red (60–100%)
@@ -110,9 +108,7 @@ curl -Lo ~/.claude/statusline.py \
 
 ### 显示效果
 
-```
-DeepSeek-V4-flash  [##########] 4%  63.1k  ~/my-project
-```
+![截图](screenshot.png)
 
 | 元素 | 颜色 | 说明 |
 |------|------|------|
